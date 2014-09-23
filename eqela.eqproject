@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# MyApplication
+#
+
+projectname: MyApplication
+vendorid: com.mycompany
+mainmodule: com.mycompany.myapplication
